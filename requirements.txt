@@ -1,0 +1,9 @@
+opencv-python
+plyer
+psutil
+schedule
+PyQt5
+keyboard
+mouse
+tk
+Pillow 

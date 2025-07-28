@@ -1,0 +1,19 @@
+{
+    "inactivity_threshold": 300,
+    "warning_messages": [
+        "Warning: Inactivity detected!",
+        "System will lock soon!"
+    ],
+    "warning_levels": 3,
+    "dark_mode": false,
+    "lock_time": "22:00",
+    "cpu_disk_threshold": 80,
+    "user_profiles": {
+        "default": {}
+    },
+    "active_profile": "default",
+    "alert_sound_frequency": 1000,
+    "alert_sound_duration": 1000,
+    "num_alerts": 3,
+    "selected_alert_sound": "Alert_2.mp3"
+}
